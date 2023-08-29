@@ -1,0 +1,15 @@
+D:\Андрей учеба\Home Work\29.08.2023\Polyndrom\bin\Debug\net6.0\Polyndrom.exe
+D:\Андрей учеба\Home Work\29.08.2023\Polyndrom\bin\Debug\net6.0\Polyndrom.deps.json
+D:\Андрей учеба\Home Work\29.08.2023\Polyndrom\bin\Debug\net6.0\Polyndrom.runtimeconfig.json
+D:\Андрей учеба\Home Work\29.08.2023\Polyndrom\bin\Debug\net6.0\Polyndrom.dll
+D:\Андрей учеба\Home Work\29.08.2023\Polyndrom\bin\Debug\net6.0\Polyndrom.pdb
+D:\Андрей учеба\Home Work\29.08.2023\Polyndrom\obj\Debug\net6.0\Polyndrom.csproj.AssemblyReference.cache
+D:\Андрей учеба\Home Work\29.08.2023\Polyndrom\obj\Debug\net6.0\Polyndrom.GeneratedMSBuildEditorConfig.editorconfig
+D:\Андрей учеба\Home Work\29.08.2023\Polyndrom\obj\Debug\net6.0\Polyndrom.AssemblyInfoInputs.cache
+D:\Андрей учеба\Home Work\29.08.2023\Polyndrom\obj\Debug\net6.0\Polyndrom.AssemblyInfo.cs
+D:\Андрей учеба\Home Work\29.08.2023\Polyndrom\obj\Debug\net6.0\Polyndrom.csproj.CoreCompileInputs.cache
+D:\Андрей учеба\Home Work\29.08.2023\Polyndrom\obj\Debug\net6.0\Polyndrom.dll
+D:\Андрей учеба\Home Work\29.08.2023\Polyndrom\obj\Debug\net6.0\refint\Polyndrom.dll
+D:\Андрей учеба\Home Work\29.08.2023\Polyndrom\obj\Debug\net6.0\Polyndrom.pdb
+D:\Андрей учеба\Home Work\29.08.2023\Polyndrom\obj\Debug\net6.0\Polyndrom.genruntimeconfig.cache
+D:\Андрей учеба\Home Work\29.08.2023\Polyndrom\obj\Debug\net6.0\ref\Polyndrom.dll
