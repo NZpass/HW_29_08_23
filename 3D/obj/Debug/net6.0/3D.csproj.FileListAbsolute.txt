@@ -1,0 +1,15 @@
+D:\Андрей учеба\Home Work\29.08.2023\3D\obj\Debug\net6.0\3D.csproj.AssemblyReference.cache
+D:\Андрей учеба\Home Work\29.08.2023\3D\obj\Debug\net6.0\3D.GeneratedMSBuildEditorConfig.editorconfig
+D:\Андрей учеба\Home Work\29.08.2023\3D\obj\Debug\net6.0\3D.AssemblyInfoInputs.cache
+D:\Андрей учеба\Home Work\29.08.2023\3D\obj\Debug\net6.0\3D.AssemblyInfo.cs
+D:\Андрей учеба\Home Work\29.08.2023\3D\obj\Debug\net6.0\3D.csproj.CoreCompileInputs.cache
+D:\Андрей учеба\Home Work\29.08.2023\3D\bin\Debug\net6.0\3D.exe
+D:\Андрей учеба\Home Work\29.08.2023\3D\bin\Debug\net6.0\3D.deps.json
+D:\Андрей учеба\Home Work\29.08.2023\3D\bin\Debug\net6.0\3D.runtimeconfig.json
+D:\Андрей учеба\Home Work\29.08.2023\3D\bin\Debug\net6.0\3D.dll
+D:\Андрей учеба\Home Work\29.08.2023\3D\bin\Debug\net6.0\3D.pdb
+D:\Андрей учеба\Home Work\29.08.2023\3D\obj\Debug\net6.0\3D.dll
+D:\Андрей учеба\Home Work\29.08.2023\3D\obj\Debug\net6.0\refint\3D.dll
+D:\Андрей учеба\Home Work\29.08.2023\3D\obj\Debug\net6.0\3D.pdb
+D:\Андрей учеба\Home Work\29.08.2023\3D\obj\Debug\net6.0\3D.genruntimeconfig.cache
+D:\Андрей учеба\Home Work\29.08.2023\3D\obj\Debug\net6.0\ref\3D.dll

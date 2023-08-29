@@ -23,5 +23,5 @@ if (plnd == 5)
 }
 else
 {
-    Console.WriteLine ("Вы ввели не пятизначное число!");
+    Console.WriteLine("Вы ввели не пятизначное число!");
 }
